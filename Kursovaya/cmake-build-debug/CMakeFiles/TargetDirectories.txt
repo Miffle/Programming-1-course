@@ -1,0 +1,3 @@
+C:/Users/Roman/Desktop/important/kursovaya po proge/cmake-build-debug/CMakeFiles/kursovaya_po_proge.dir
+C:/Users/Roman/Desktop/important/kursovaya po proge/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Roman/Desktop/important/kursovaya po proge/cmake-build-debug/CMakeFiles/rebuild_cache.dir
